@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dnscooker
-- 👀 I’m interested in ... like minded individuals
-- 🌱 I’m currently learning ...Malbolge
-- 💞️ I’m looking to collaborate on ...sharing data em:pw
+- 👀 I’m interested in ..."username" "pass" "full info"
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ... future open api 
 - 📫 How to reach me ... ill reach you 🙂
 
 <!---
